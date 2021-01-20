@@ -1,3 +1,3 @@
 # LabWeek1
 Miguel's User Page 
-Changes
+My favorite programming language is Java.
