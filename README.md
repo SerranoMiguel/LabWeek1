@@ -1,4 +1,5 @@
 # Miguel Serrano's User Page
+![image info](~/Desktop/PersonalBusiness/GliderportSelfie.jpg)
 My favorite programming language is Java.\
 Some things about me:
 * I am 21 years old
