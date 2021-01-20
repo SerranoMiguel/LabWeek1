@@ -1,4 +1,4 @@
 # LabWeek1
-Miguel's User Page \n 
+Miguel's User Page
 
 My favorite programming language is Java.
