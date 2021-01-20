@@ -1,5 +1,5 @@
 # Miguel Serrano's User Page
-My favorite programming language is Java.
+My favorite programming language is Java.\
 Some things about me:
 * I am 21 years old
 * I am a computer science major
