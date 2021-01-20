@@ -1,5 +1,5 @@
 # Miguel Serrano's User Page
-![image](Images/Selfie.jpg){:height="154px" width="116px"}. \
+![image](Images/Selfie.jpg){:height="154px" width="116px"} \
 My favorite programming language is Java.\
 Some things about me:
 * I am 21 years old
