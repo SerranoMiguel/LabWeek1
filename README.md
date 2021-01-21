@@ -26,3 +26,4 @@ But here's a bit more about my progress as a CS major here at UCSD in terms of c
 - [x] CSE 105
 - [ ] CSE 141
 - [ ] CSE 141L
+[a relative link](README.md)
