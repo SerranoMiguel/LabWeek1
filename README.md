@@ -1,7 +1,7 @@
 # Miguel Serrano's User Page
 ![image](Images/Selfie.jpg){:height="154px" width="116px"} \
 My favorite programming language is Java.\
-Some things about me:
+## Some things about me: 
 * I am 21 years old
 * I am a computer science major
 * I am also picking up a business minor
