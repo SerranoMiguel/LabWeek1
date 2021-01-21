@@ -12,5 +12,8 @@ Fun Facts Time:
 * I'm a big sports guy
 * I like to cook
 
-Not trying to show off, *but* people say I make a good holiday ham. Here is a [link](https://www.foodnetwork.com/videos/orange-glazed-holiday-ham-68004/) to a video to find out to how make said ham.
+Not trying to show off, *but* people say I make a good holiday ham. Here is a [link](https://www.foodnetwork.com/videos/orange-glazed-holiday-ham-68004/) to a video to find out to how make said ham. /
+
+I do all I can do make it because, as the Great Michael Scott once said, 
+> "You miss 100% of the shots you don't take -Wayne Gretsky"
 
