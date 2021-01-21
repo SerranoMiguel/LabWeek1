@@ -27,4 +27,4 @@ But here's a bit more about my progress as a CS major here at UCSD in terms of c
 - [ ] CSE 141
 - [ ] CSE 141L
 
-[See this Git repo here](README.md)
+[See this Git repo here](https://github.com/SerranoMiguel/SerranoMiguel.github.io/)
