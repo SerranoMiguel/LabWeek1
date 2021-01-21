@@ -25,6 +25,6 @@ But here's a bit more about my progress as a CS major here at UCSD in terms of c
 - [x] CSE 101
 - [x] CSE 105
 - [ ] CSE 141
-- [ ] CSE 141L \
+- [ ] CSE 141L
 
 [See this Git repo here](README.md)
