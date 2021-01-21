@@ -20,7 +20,7 @@ Not trying to show off, *but* people say I make a good holiday ham. Here is a [l
 I do all I can do make it because, as the Great Michael Scott once said, 
 > "You miss 100% of the shots you don't take -Wayne Gretsky"
 
-#CS Course Experience:#
+# CS Course Experience:
 But here's a bit more about my progress as a CS major here at UCSD in terms of courses:
 - [x] CSE 100
 - [x] CSE 101
